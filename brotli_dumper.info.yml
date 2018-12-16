@@ -1,0 +1,6 @@
+name: BrotliDumper
+type: module
+description: Dump with brotli compression
+dependencies: 
+version: '8.2.6'
+core: '8.x'
